@@ -1,7 +1,6 @@
 gb_oop_basics.sln
 .vs
 .git
-<<<<<<< HEAD
 gb_oop_basics/bin
 gb_oop_basics/obj
 gb_oop_basics/Lesson_2_Task_1.csproj
@@ -17,7 +16,4 @@ Task_4/Lesson_2_Task_4.csproj
 Lesson_2_Task_5/bin
 Lesson_2_Task_5/obj
 Lesson_2_Task_5/Lesson_2_Task_5.csproj
-=======
-gb_oop_basics
->>>>>>> parent of 0b8e5c8 (Lesson 2: Classes)
 README.md
