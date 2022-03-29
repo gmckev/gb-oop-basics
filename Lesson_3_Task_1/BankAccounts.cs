@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lesson_3_Task_1
 {
-    internal class BankAccount
+    internal class BankAccounts
     {
         static void Main(string[] args)
         {
